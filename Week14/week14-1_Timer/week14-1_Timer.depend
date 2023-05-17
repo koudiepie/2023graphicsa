@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # depslib dependency file v1.0
 1684287281 source:c:\users\administrator\desktop\week14-1_timer\main.cpp
 	<GL/glut.h>
@@ -16,3 +17,23 @@
 	<GL/glu.h>
 	<stdlib.h>
 
+=======
+# depslib dependency file v1.0
+1684287281 source:c:\users\administrator\desktop\week14-1_timer\main.cpp
+	<GL/glut.h>
+
+1426320928 c:\users\administrator\desktop\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426320928 c:\users\administrator\desktop\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+>>>>>>> 9aef6b08238df8b01a05e0972e9c36c00104a4ee
